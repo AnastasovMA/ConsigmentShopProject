@@ -1,0 +1,93 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ConsignmentShopLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/ConsignmentShopLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ConsignmentShopLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsignmentShopLibrary/1.0.0": {
+      "type": "project",
+      "path": "../ConsignmentShopLibrary/ConsignmentShopLibrary.csproj",
+      "msbuildProject": "../ConsignmentShopLibrary/ConsignmentShopLibrary.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "ConsignmentShopLibrary >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\MARIO\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\SoftUni\\YoutubeProject\\ConsignmentShopDemo\\ConsignmentShopUI\\ConsignmentShopUI.csproj",
+      "projectName": "ConsignmentShopUI",
+      "projectPath": "D:\\SoftUni\\YoutubeProject\\ConsignmentShopDemo\\ConsignmentShopUI\\ConsignmentShopUI.csproj",
+      "packagesPath": "C:\\Users\\MARIO\\.nuget\\packages\\",
+      "outputPath": "D:\\SoftUni\\YoutubeProject\\ConsignmentShopDemo\\ConsignmentShopUI\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\MARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "D:\\SoftUni\\YoutubeProject\\ConsignmentShopDemo\\ConsignmentShopLibrary\\ConsignmentShopLibrary.csproj": {
+              "projectPath": "D:\\SoftUni\\YoutubeProject\\ConsignmentShopDemo\\ConsignmentShopLibrary\\ConsignmentShopLibrary.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

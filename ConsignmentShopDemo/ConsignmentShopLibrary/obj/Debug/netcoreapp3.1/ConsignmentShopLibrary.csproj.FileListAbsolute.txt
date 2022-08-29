@@ -1,0 +1,10 @@
+D:\SoftUni\YoutubeProject\ConsignmentShopDemo\ConsignmentShopLibrary\bin\Debug\netcoreapp3.1\ConsignmentShopLibrary.deps.json
+D:\SoftUni\YoutubeProject\ConsignmentShopDemo\ConsignmentShopLibrary\bin\Debug\netcoreapp3.1\ConsignmentShopLibrary.dll
+D:\SoftUni\YoutubeProject\ConsignmentShopDemo\ConsignmentShopLibrary\bin\Debug\netcoreapp3.1\ConsignmentShopLibrary.pdb
+D:\SoftUni\YoutubeProject\ConsignmentShopDemo\ConsignmentShopLibrary\obj\Debug\netcoreapp3.1\ConsignmentShopLibrary.csproj.AssemblyReference.cache
+D:\SoftUni\YoutubeProject\ConsignmentShopDemo\ConsignmentShopLibrary\obj\Debug\netcoreapp3.1\ConsignmentShopLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\YoutubeProject\ConsignmentShopDemo\ConsignmentShopLibrary\obj\Debug\netcoreapp3.1\ConsignmentShopLibrary.AssemblyInfoInputs.cache
+D:\SoftUni\YoutubeProject\ConsignmentShopDemo\ConsignmentShopLibrary\obj\Debug\netcoreapp3.1\ConsignmentShopLibrary.AssemblyInfo.cs
+D:\SoftUni\YoutubeProject\ConsignmentShopDemo\ConsignmentShopLibrary\obj\Debug\netcoreapp3.1\ConsignmentShopLibrary.csproj.CoreCompileInputs.cache
+D:\SoftUni\YoutubeProject\ConsignmentShopDemo\ConsignmentShopLibrary\obj\Debug\netcoreapp3.1\ConsignmentShopLibrary.dll
+D:\SoftUni\YoutubeProject\ConsignmentShopDemo\ConsignmentShopLibrary\obj\Debug\netcoreapp3.1\ConsignmentShopLibrary.pdb
